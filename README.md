@@ -42,6 +42,6 @@ Opens a prompt and jumps to a line in the file. To return to your location where
 ### fn + f5:
 This will sort the text that is selected. This is particularly useful for sorting import statements which is common practice in many companies.
 ### Add more of your own here! I'm sure I forgot some...
-
+Checkout lesson2 for a dedicated lesson on using the terminal.
 
 
